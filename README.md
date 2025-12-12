@@ -1,17 +1,17 @@
 # 📊 Value-at-Risk (VaR) Backtesting Engine
 
-This project implements a full **VaR estimation and backtesting framework** commonly used in market risk management.  
-It includes 
-- multiple VaR models,
-- daily PnL-based backtesting, and
-- regulatory tests (Kupiec, Christoffersen).
+This project implements a full **VaR estimation and backtesting framework** commonly used in market risk management. It includes: 
+- Multiple VaR models,
+- Daily PnL-based backtesting, and
+- Regulatory tests (Kupiec, Christoffersen).
 
 ---
 
 ## 🚀 Features
 
 ### ✔ VaR Models
-- Historical Simulation VaR  
+- Historical Simulation VaR
+- Filtered Simulation VaR  
 - EWMA VaR (λ = 0.94 / configurable)  
 - GARCH(1,1) Parametric VaR  
 - Monte Carlo VaR (Gaussian & t-distribution)  
@@ -24,4 +24,3 @@ It includes
 
 ### ✔ Additional Functionality
 - Risk report generation (tables + plots)
-- CLI support:  
