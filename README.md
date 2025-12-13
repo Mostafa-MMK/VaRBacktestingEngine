@@ -5,6 +5,13 @@ This project implements a full **VaR estimation and backtesting framework** comm
 - Daily PnL-based backtesting, and
 - Regulatory tests (Kupiec, Christoffersen).
 
+# Structure of the Contents
+- 01_Data_Preparation.ipynb
+- 02_VaR_Model_Implementations.ipynb
+- 03_Backtesting_Framework.ipynb
+- 04_Kupiec_Christoffersen_Tests.ipynb
+- 05_Comparative_Analysis_Report.ipynb
+
 ---
 
 ## 🚀 Features
